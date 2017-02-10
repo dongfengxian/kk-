@@ -1,0 +1,253 @@
+jsonpCallback({encrypt: "62c38c7cc5846ec214fd6bb4407fa0f0",…});
+encrypt:"62c38c7cc5846ec214fd6bb4407fa0f0"
+is_encode:false
+response:{message: "", exception: "", upgrade: {version: ""}, entry_version: "2.6", entry_classname: "",…}
+data:[{id: "123349", goods_id: "50614", goods_no: "SOS0115", supplier_goods_stock_id: "198413",…},…]
+0:{id: "123349", goods_id: "50614", goods_no: "SOS0115", supplier_goods_stock_id: "198413",…}
+act_goods_name:"日本 SOS SLEEP PANIC睡眠减肥 60粒"
+active_id:"2190"
+barcode:"4560323730115"
+cost_price:"38.00"
+create_time:"1472872709"
+credit:"0"
+discount:4.5
+erp_id:""
+goods_alias:""
+goods_id:"50614"
+goods_name:"SOS SLEEP PANIC睡眠减肥 60粒"
+goods_no:"SOS0115"
+id:"123349"
+img_url:"http://cdn.kkguan.com/e0/ce/e0cef73e1016a36b28f67e7e928ec397.jpg?imageView2/1/interlace/1/q/80"
+market_price:"93.00"
+promotion:"42.00"
+purchase:"0"
+required_number_of_participants:"2"
+res_id:"556766"
+shop_price:"59.00"
+status:"1"
+store:"-1"
+store_num:"75"
+store_price:"0.00"
+supplier_goods_stock_id:"198413"
+tips:"日本 SOS SLEEP PANIC睡眠减肥 60粒"
+title:"<span class="icon_flag_mini icon_flag_Japan"></span></span>[日本品牌 保税区仓库发货]"
+type:"6"
+update_time:""
+url:"http://m.kkguan.com/123349-2190.html"
+1:{id: "123300", goods_id: "50565", goods_no: "6956997510746", supplier_goods_stock_id: "198364",…}
+act_goods_name:"SWEET PINK 粉色安琪 大眼娃娃纤长卷翘睫毛膏"
+active_id:"2190"
+barcode:"6956997510746"
+cost_price:"17.00"
+create_time:"1472698983"
+credit:"0"
+discount:3.4
+erp_id:""
+goods_alias:""
+goods_id:"50565"
+goods_name:"SWEET PINK 粉色安琪 大眼娃娃纤长卷翘睫毛膏"
+goods_no:"6956997510746"
+id:"123300"
+img_url:"http://cdn.kkguan.com/6a/b4/6ab434444031c0500acce418de8b4ea5.jpg?imageView2/1/interlace/1/q/80"
+market_price:"59.00"
+promotion:"19.90"
+purchase:"0"
+required_number_of_participants:"2"
+res_id:"547071"
+shop_price:"39.00"
+status:"1"
+store:"-1"
+store_num:"462"
+store_price:"0.00"
+supplier_goods_stock_id:"198364"
+tips:"精选 电眼娃娃的秘密"
+title:"<span class="icon_flag_mini icon_flag_China"></span></span>[中国品牌 KK馆仓库发货]"
+type:"6"
+update_time:"1480989498"
+url:"http://m.kkguan.com/123300-2190.html"
+2:{id: "122976", goods_id: "50241", goods_no: "FAN5325", supplier_goods_stock_id: "198040",…}
+act_goods_name:"日本 FANCL 清血纳豆 30日"
+active_id:"2190"
+barcode:"4908049123109"
+cost_price:"85.00"
+create_time:"1472023386"
+credit:"0"
+discount:5.3
+erp_id:""
+goods_alias:""
+goods_id:"50241"
+goods_name:"FANCL/芳珂 清血纳豆 30日"
+goods_no:"FAN5325"
+id:"122976"
+img_url:"http://cdn.kkguan.com/07/5f/075fa73dfa5142186e835076b836fb26.jpg?imageView2/1/interlace/1/q/80"
+market_price:"169.00"
+promotion:"89.00"
+purchase:"0"
+required_number_of_participants:"2"
+res_id:"556762"
+shop_price:"112.00"
+status:"1"
+store:"-1"
+store_num:"1"
+store_price:"0.00"
+supplier_goods_stock_id:"198040"
+tips:"日本 血管干净不阻塞"
+title:"<span class="icon_flag_mini icon_flag_Japan"></span></span>[日本品牌 保税区仓库发货]"
+type:"6"
+update_time:"1479692864"
+url:"http://m.kkguan.com/122976-2190.html"
+3:{id: "122878", goods_id: "50143", goods_no: "LZ-005", supplier_goods_stock_id: "197942",…}
+act_goods_name:"韩国 兰芝 夜间保湿修护唇膜 20g"
+active_id:"2190"
+barcode:"8801042791848"
+cost_price:"94.00"
+create_time:"1471594996"
+credit:"0"
+discount:5.2
+erp_id:""
+goods_alias:""
+goods_id:"50143"
+goods_name:"Laneige兰芝 夜间保湿修护唇膜 保湿修护 20g"
+goods_no:"LZ-005"
+id:"122878"
+img_url:"http://cdn.kkguan.com/5c/55/5c553e818de7f4c53cf2cde4b8cf55f0.jpg?imageView2/1/interlace/1/q/80"
+market_price:"188.00"
+promotion:"98.00"
+purchase:"0"
+required_number_of_participants:"2"
+res_id:"490382"
+shop_price:"125.00"
+status:"1"
+store:"-1"
+store_num:"191"
+store_price:"0.00"
+supplier_goods_stock_id:"197942"
+tips
+:
+"韩国 晚安果冻唇"
+title
+:
+"<span class="icon_flag_mini icon_flag_Korea"></span></span>[韩国品牌 香港仓库发货]"
+type
+:
+"6"
+update_time
+:
+"1480302144"
+url
+:
+"http://m.kkguan.com/122878-2190.html"
+4
+:
+{id: "122262", goods_id: "49530", goods_no: "QJF0377DB2", supplier_goods_stock_id: "197836",…}
+act_goods_name
+:
+"【2盒装】韩国 自然乐园 完美保湿芦荟胶 300ml"
+active_id
+:
+"2190"
+barcode
+:
+"8806173420377"
+cost_price
+:
+"51.00"
+create_time
+:
+"1470620136"
+credit
+:
+"0"
+discount
+:
+5.6
+erp_id
+:
+""
+goods_alias
+:
+""
+goods_id
+:
+"49530"
+goods_name
+:
+"【2盒装】韩国 自然乐园 完美保湿芦荟胶 300ml"
+goods_no
+:
+"QJF0377DB2"
+id
+:
+"122262"
+img_url
+:
+"http://cdn.kkguan.com/4c/ce/4cce441842f7836a29435eb4b5906785.jpg?imageView2/1/interlace/1/q/80"
+market_price
+:
+"98.00"
+promotion
+:
+"55.00"
+purchase
+:
+"0"
+required_number_of_participants
+:
+"2"
+res_id
+:
+"479501"
+shop_price
+:
+"68.00"
+status
+:
+"1"
+store
+:
+"-1"
+store_num
+:
+"341"
+store_price
+:
+"0.00"
+supplier_goods_stock_id
+:
+"197836"
+tips
+:
+"韩国 人手一罐的爆款"
+title
+:
+"<span class="icon_flag_mini icon_flag_Korea"></span></span>[韩国品牌 保税区仓库发货]"
+type
+:
+"6"
+update_time
+:
+"1481686214"
+url
+:
+"http://m.kkguan.com/122262-2190.html"
+entry_classname
+:
+""
+entry_version
+:
+"2.6"
+exception
+:
+""
+message
+:
+""
+status
+:
+1
+upgrade
+:
+{version: ""}
+version
+:
+""

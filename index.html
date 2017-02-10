@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html ng-app="myApp">
+<head>
+    <meta charset="utf-8">
+    <title>kk馆微商城</title>
+    <link rel="stylesheet" href="common/css/index.css">
+    <script src="common/js/angular.min.js"></script>
+    <script src="common/js/angular-ui-router.min.js"></script>
+    <script src="common/js/angular-css.min.js"></script>
+</head>
+<body>
+    <footer>
+        <ul>
+            <li><a ui-sref="home">首页</a></li>
+            <li><a ui-sref="cate">分类</a></li>
+            <li><a ui-sref="cart">购物车</a></li>
+            <li><a ui-sref="experience">体验店</a></li>
+            <li><a ui-sref="mine">我的</a></li>
+        </ul>
+    </footer>
+    <div ui-view></div>
+    <script>
+        angular.module('myApp',['ui.router'])
+        .config(function ($routePouter,$urlRouterProvider) {
+            $urlRouterProvider.otherwise('./views/home.html')
+            $routePouter.state('home',{
+                url:"/home",
+                templateUrl:"./views/home.html"
+            })
+        })
+    </script>
+</body>
+</html>
